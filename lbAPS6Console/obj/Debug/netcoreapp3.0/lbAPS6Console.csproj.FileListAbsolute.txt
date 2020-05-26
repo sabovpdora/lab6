@@ -1,0 +1,37 @@
+C:\Users\Admin\source\repos\lbAPS6Console\lbAPS6Console\bin\Debug\netcoreapp3.0\lbAPS6Console.exe
+C:\Users\Admin\source\repos\lbAPS6Console\lbAPS6Console\bin\Debug\netcoreapp3.0\lbAPS6Console.deps.json
+C:\Users\Admin\source\repos\lbAPS6Console\lbAPS6Console\bin\Debug\netcoreapp3.0\lbAPS6Console.runtimeconfig.json
+C:\Users\Admin\source\repos\lbAPS6Console\lbAPS6Console\bin\Debug\netcoreapp3.0\lbAPS6Console.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\lbAPS6Console\lbAPS6Console\bin\Debug\netcoreapp3.0\lbAPS6Console.dll
+C:\Users\Admin\source\repos\lbAPS6Console\lbAPS6Console\bin\Debug\netcoreapp3.0\lbAPS6Console.pdb
+C:\Users\Admin\source\repos\lbAPS6Console\lbAPS6Console\obj\Debug\netcoreapp3.0\lbAPS6Console.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\lbAPS6Console\lbAPS6Console\obj\Debug\netcoreapp3.0\lbAPS6Console.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\lbAPS6Console\lbAPS6Console\obj\Debug\netcoreapp3.0\lbAPS6Console.AssemblyInfo.cs
+C:\Users\Admin\source\repos\lbAPS6Console\lbAPS6Console\obj\Debug\netcoreapp3.0\lbAPS6Console.dll
+C:\Users\Admin\source\repos\lbAPS6Console\lbAPS6Console\obj\Debug\netcoreapp3.0\lbAPS6Console.pdb
+C:\Users\szabo\OneDrive\Asztali gép\lb6APS-master\lbAPS6Console\bin\Debug\netcoreapp3.0\lbAPS6Console.exe
+C:\Users\szabo\OneDrive\Asztali gép\lb6APS-master\lbAPS6Console\bin\Debug\netcoreapp3.0\lbAPS6Console.deps.json
+C:\Users\szabo\OneDrive\Asztali gép\lb6APS-master\lbAPS6Console\bin\Debug\netcoreapp3.0\lbAPS6Console.runtimeconfig.json
+C:\Users\szabo\OneDrive\Asztali gép\lb6APS-master\lbAPS6Console\bin\Debug\netcoreapp3.0\lbAPS6Console.runtimeconfig.dev.json
+C:\Users\szabo\OneDrive\Asztali gép\lb6APS-master\lbAPS6Console\bin\Debug\netcoreapp3.0\lbAPS6Console.dll
+C:\Users\szabo\OneDrive\Asztali gép\lb6APS-master\lbAPS6Console\bin\Debug\netcoreapp3.0\lbAPS6Console.pdb
+C:\Users\szabo\OneDrive\Asztali gép\lb6APS-master\lbAPS6Console\obj\Debug\netcoreapp3.0\lbAPS6Console.csprojAssemblyReference.cache
+C:\Users\szabo\OneDrive\Asztali gép\lb6APS-master\lbAPS6Console\obj\Debug\netcoreapp3.0\lbAPS6Console.csproj.CoreCompileInputs.cache
+C:\Users\szabo\OneDrive\Asztali gép\lb6APS-master\lbAPS6Console\obj\Debug\netcoreapp3.0\lbAPS6Console.AssemblyInfoInputs.cache
+C:\Users\szabo\OneDrive\Asztali gép\lb6APS-master\lbAPS6Console\obj\Debug\netcoreapp3.0\lbAPS6Console.AssemblyInfo.cs
+C:\Users\szabo\OneDrive\Asztali gép\lb6APS-master\lbAPS6Console\obj\Debug\netcoreapp3.0\lbAPS6Console.dll
+C:\Users\szabo\OneDrive\Asztali gép\lb6APS-master\lbAPS6Console\obj\Debug\netcoreapp3.0\lbAPS6Console.pdb
+C:\Users\szabo\OneDrive\Asztali gép\lb6APS-master\lbAPS6Console\obj\Debug\netcoreapp3.0\lbAPS6Console.genruntimeconfig.cache
+C:\Users\szabo\OneDrive\Asztali gép\Шаблони проектування\lb6APS-master\lbAPS6Console\bin\Debug\netcoreapp3.0\lbAPS6Console.exe
+C:\Users\szabo\OneDrive\Asztali gép\Шаблони проектування\lb6APS-master\lbAPS6Console\bin\Debug\netcoreapp3.0\lbAPS6Console.deps.json
+C:\Users\szabo\OneDrive\Asztali gép\Шаблони проектування\lb6APS-master\lbAPS6Console\bin\Debug\netcoreapp3.0\lbAPS6Console.runtimeconfig.json
+C:\Users\szabo\OneDrive\Asztali gép\Шаблони проектування\lb6APS-master\lbAPS6Console\bin\Debug\netcoreapp3.0\lbAPS6Console.runtimeconfig.dev.json
+C:\Users\szabo\OneDrive\Asztali gép\Шаблони проектування\lb6APS-master\lbAPS6Console\bin\Debug\netcoreapp3.0\lbAPS6Console.dll
+C:\Users\szabo\OneDrive\Asztali gép\Шаблони проектування\lb6APS-master\lbAPS6Console\bin\Debug\netcoreapp3.0\lbAPS6Console.pdb
+C:\Users\szabo\OneDrive\Asztali gép\Шаблони проектування\lb6APS-master\lbAPS6Console\obj\Debug\netcoreapp3.0\lbAPS6Console.csprojAssemblyReference.cache
+C:\Users\szabo\OneDrive\Asztali gép\Шаблони проектування\lb6APS-master\lbAPS6Console\obj\Debug\netcoreapp3.0\lbAPS6Console.csproj.CoreCompileInputs.cache
+C:\Users\szabo\OneDrive\Asztali gép\Шаблони проектування\lb6APS-master\lbAPS6Console\obj\Debug\netcoreapp3.0\lbAPS6Console.AssemblyInfoInputs.cache
+C:\Users\szabo\OneDrive\Asztali gép\Шаблони проектування\lb6APS-master\lbAPS6Console\obj\Debug\netcoreapp3.0\lbAPS6Console.AssemblyInfo.cs
+C:\Users\szabo\OneDrive\Asztali gép\Шаблони проектування\lb6APS-master\lbAPS6Console\obj\Debug\netcoreapp3.0\lbAPS6Console.dll
+C:\Users\szabo\OneDrive\Asztali gép\Шаблони проектування\lb6APS-master\lbAPS6Console\obj\Debug\netcoreapp3.0\lbAPS6Console.pdb
+C:\Users\szabo\OneDrive\Asztali gép\Шаблони проектування\lb6APS-master\lbAPS6Console\obj\Debug\netcoreapp3.0\lbAPS6Console.genruntimeconfig.cache

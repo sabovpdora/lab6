@@ -1,0 +1,13 @@
+C:\Users\szabo\OneDrive\Dokumentumok\lab6\lbAPS6Console\bin\Debug\netcoreapp3.0\lab6.exe
+C:\Users\szabo\OneDrive\Dokumentumok\lab6\lbAPS6Console\bin\Debug\netcoreapp3.0\lab6.deps.json
+C:\Users\szabo\OneDrive\Dokumentumok\lab6\lbAPS6Console\bin\Debug\netcoreapp3.0\lab6.runtimeconfig.json
+C:\Users\szabo\OneDrive\Dokumentumok\lab6\lbAPS6Console\bin\Debug\netcoreapp3.0\lab6.runtimeconfig.dev.json
+C:\Users\szabo\OneDrive\Dokumentumok\lab6\lbAPS6Console\bin\Debug\netcoreapp3.0\lab6.dll
+C:\Users\szabo\OneDrive\Dokumentumok\lab6\lbAPS6Console\bin\Debug\netcoreapp3.0\lab6.pdb
+C:\Users\szabo\OneDrive\Dokumentumok\lab6\lbAPS6Console\obj\Debug\netcoreapp3.0\lab6.csprojAssemblyReference.cache
+C:\Users\szabo\OneDrive\Dokumentumok\lab6\lbAPS6Console\obj\Debug\netcoreapp3.0\lab6.csproj.CoreCompileInputs.cache
+C:\Users\szabo\OneDrive\Dokumentumok\lab6\lbAPS6Console\obj\Debug\netcoreapp3.0\lab6.AssemblyInfoInputs.cache
+C:\Users\szabo\OneDrive\Dokumentumok\lab6\lbAPS6Console\obj\Debug\netcoreapp3.0\lab6.AssemblyInfo.cs
+C:\Users\szabo\OneDrive\Dokumentumok\lab6\lbAPS6Console\obj\Debug\netcoreapp3.0\lab6.dll
+C:\Users\szabo\OneDrive\Dokumentumok\lab6\lbAPS6Console\obj\Debug\netcoreapp3.0\lab6.pdb
+C:\Users\szabo\OneDrive\Dokumentumok\lab6\lbAPS6Console\obj\Debug\netcoreapp3.0\lab6.genruntimeconfig.cache
